@@ -1,2 +1,3 @@
-# multipeer-session
+# MultipeerSession
+
 Convenience API for creating multiuser AR experiences using Apple's Multipeer Connectivity framework.
